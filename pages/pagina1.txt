@@ -1,0 +1,3 @@
+Tras el primer commit (el N°2 creo), que define la estructura de directorios,
+modifico este archivo para hacer la prueba.
+Cambio esta línea (y otra en el archivo pagina3.txt). Commit y push.
